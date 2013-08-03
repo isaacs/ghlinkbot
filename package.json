@@ -1,6 +1,6 @@
 {
   "name": "ghlinkbot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An IRC bot that links things like GH-1234 to the associated issue",
   "dependencies": {
     "ghlink": "~0.1.2",
